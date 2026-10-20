@@ -35,8 +35,13 @@ Written in VS Code using CircuitPython + KMK. AI was used to help write the code
 ## Repository Layout
 
 ## Schematic
+<img width="775" height="618" alt="image" src="https://github.com/user-attachments/assets/9bb50dca-55c4-44fc-abc8-d273bfd04af1" />
 
 ## PCB
+<img width="652" height="818" alt="image" src="https://github.com/user-attachments/assets/6e8c205c-5f18-4a79-a0e9-3e8eaaf6c7e0" />
+<img width="662" height="888" alt="image" src="https://github.com/user-attachments/assets/1adfea31-8490-4f5c-8204-8c3440a6a6b0" />
+
+
 
 ## CAD
 <img width="782" height="871" alt="image" src="https://github.com/user-attachments/assets/b3c10928-5cc8-4b62-bddb-6980041c1e01" />
