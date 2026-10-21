@@ -1,0 +1,1423 @@
+(export
+	(version "E")
+	(design
+		(source "C:\\Users\\Miranda\\OneDrive - RMIT University\\Desktop\\Hackclub\\hackpad\\hackpad.kicad_sch")
+		(date "2026-10-11T17:13:31")
+		(tool "Eeschema 10.0.6")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title)
+				(company)
+				(rev)
+				(date)
+				(source "hackpad.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "D1")
+			(value "SK6812MINI-E")
+			(footprint "SK6812MINI-E - 3.2x2.8x1.78mm")
+			(datasheet "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "SK6812MINI-E - 3.2x2.8x1.78mm")
+				(field
+					(name "Datasheet") "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "SK6812MINI-E")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "hackpad.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel Mini addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0a0ceb8f-1d60-4602-9085-9ba1e45d8428")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D2")
+			(value "SK6812MINI-E")
+			(footprint "SK6812MINI-E - 3.2x2.8x1.78mm")
+			(datasheet "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "SK6812MINI-E - 3.2x2.8x1.78mm")
+				(field
+					(name "Datasheet") "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "SK6812MINI-E")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "hackpad.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel Mini addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "186f6f46-f676-4d48-88ac-4a349b6d5439")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D3")
+			(value "SK6812MINI-E")
+			(footprint "SK6812MINI-E - 3.2x2.8x1.78mm")
+			(datasheet "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "SK6812MINI-E - 3.2x2.8x1.78mm")
+				(field
+					(name "Datasheet") "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "SK6812MINI-E")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "hackpad.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel Mini addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e76760c2-5ead-4f9e-af68-0c0642675dcf")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D4")
+			(value "SK6812MINI-E")
+			(footprint "SK6812MINI-E - 3.2x2.8x1.78mm")
+			(datasheet "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "SK6812MINI-E - 3.2x2.8x1.78mm")
+				(field
+					(name "Datasheet") "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "SK6812MINI-E")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "hackpad.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel Mini addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7df40dff-d1b9-4c21-a246-276c786eece1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J1")
+			(value "Conn_01x04")
+			(footprint "Connector:FanPinHeader_1x04_P2.54mm_Vertical")
+			(description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(fields
+				(field
+					(name "Footprint") "Connector:FanPinHeader_1x04_P2.54mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Conn_01x04")
+				(description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "hackpad.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e352232f-eaf3-4026-a317-a10a97080886")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW1")
+			(value "SW_Push")
+			(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "hackpad.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2651fcb0-8f85-4afa-97b7-be6765b9a13f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW2")
+			(value "SW_Push")
+			(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "hackpad.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c85fad5e-757a-42cc-9285-8cc7594960aa")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW3")
+			(value "SW_Push")
+			(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "hackpad.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c9149891-9720-4555-869a-a71883d96c6a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW4")
+			(value "SW_Push")
+			(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "hackpad.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "99800af8-0d65-49f4-a967-d1974d5e78a5")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW5")
+			(value "SW_Push")
+			(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "hackpad.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "4df406c6-e9b8-446f-9716-2ed761c6d73c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW6")
+			(value "RotaryEncoder_Switch")
+			(footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm")
+			(description "Rotary encoder, dual channel, incremental quadrate outputs, with switch")
+			(fields
+				(field
+					(name "Footprint") "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Rotary encoder, dual channel, incremental quadrate outputs, with switch")
+			)
+			(libsource
+				(lib "Device")
+				(part "RotaryEncoder_Switch")
+				(description "Rotary encoder, dual channel, incremental quadrate outputs, with switch")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "hackpad.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "rotary switch encoder switch push button")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "RotaryEncoder*Switch*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f34e3fcc-0adf-4b8e-85f6-6fca3aed1c1d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "A")
+						)
+						(pin
+							(num "C")
+						)
+						(pin
+							(num "B")
+						)
+						(pin
+							(num "S1")
+						)
+						(pin
+							(num "S2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U1")
+			(value "MOUDLE-SEEEDUINO-XIAO")
+			(footprint "footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM")
+			(fields
+				(field
+					(name "Footprint") "footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "XIAO_RP2040")
+				(part "MOUDLE-SEEEDUINO-XIAO")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "hackpad.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1bbb42c3-c970-4d18-9d4e-e3bd9c586c6e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "Connector_Generic")
+			(part "Conn_01x04")
+			(description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(footprints
+				(fp "Connector*:*_1x??_*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Conn_01x04")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Pin_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "Pin_2")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "Pin_3")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "Pin_4")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "RotaryEncoder_Switch")
+			(description "Rotary encoder, dual channel, incremental quadrate outputs, with switch")
+			(footprints
+				(fp "RotaryEncoder*Switch*")
+			)
+			(fields
+				(field
+					(name "Reference") "SW")
+				(field
+					(name "Value") "RotaryEncoder_Switch")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Rotary encoder, dual channel, incremental quadrate outputs, with switch")
+			)
+			(pins
+				(pin
+					(num "A")
+					(name "A")
+					(type "passive")
+				)
+				(pin
+					(num "B")
+					(name "B")
+					(type "passive")
+				)
+				(pin
+					(num "C")
+					(name "C")
+					(type "passive")
+				)
+				(pin
+					(num "S1")
+					(name "S1")
+					(type "passive")
+				)
+				(pin
+					(num "S2")
+					(name "S2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "SK6812MINI-E")
+			(part "SK6812MINI-E")
+			(description "RGB LED with integrated controller")
+			(docs "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf")
+			(footprints
+				(fp "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "SK6812MINI-E")
+				(field
+					(name "Footprint") "SK6812MINI-E - 3.2x2.8x1.78mm")
+				(field
+					(name "Datasheet") "https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VDD")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "DOUT")
+					(type "output")
+				)
+				(pin
+					(num "3")
+					(name "VSS")
+					(type "power_in")
+				)
+				(pin
+					(num "4")
+					(name "DIN")
+					(type "input")
+				)
+			)
+		)
+		(libpart
+			(lib "Switch")
+			(part "SW_Push")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Reference") "SW")
+				(field
+					(name "Value") "SW_Push")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "XIAO_RP2040")
+			(part "MOUDLE-SEEEDUINO-XIAO")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "MOUDLE-SEEEDUINO-XIAO")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "PA02_A0_D0")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "PA4_A1_D1")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "PA10_A2_D2")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "PA11_A3_D3")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "PA8_A4_D4_SDA")
+					(type "passive")
+				)
+				(pin
+					(num "6")
+					(name "PA9_A5_D5_SCL")
+					(type "passive")
+				)
+				(pin
+					(num "7")
+					(name "PB08_A6_D6_TX")
+					(type "passive")
+				)
+				(pin
+					(num "8")
+					(name "PB09_A7_D7_RX")
+					(type "passive")
+				)
+				(pin
+					(num "9")
+					(name "PA7_A8_D8_SCK")
+					(type "passive")
+				)
+				(pin
+					(num "10")
+					(name "PA5_A9_D9_MISO")
+					(type "passive")
+				)
+				(pin
+					(num "11")
+					(name "PA6_A10_D10_MOSI")
+					(type "passive")
+				)
+				(pin
+					(num "12")
+					(name "3V3")
+					(type "passive")
+				)
+				(pin
+					(num "13")
+					(name "GND")
+					(type "passive")
+				)
+				(pin
+					(num "14")
+					(name "5V")
+					(type "passive")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "Connector_Generic")
+			(uri "${KICAD10_SYMBOL_DIR}/Connector_Generic.kicad_sym")
+		)
+		(library
+			(logical "Device")
+			(uri "${KICAD10_SYMBOL_DIR}/Device.kicad_sym")
+		)
+		(library
+			(logical "SK6812MINI-E")
+			(uri "C:/Users/Miranda/Downloads/kicad_care_package/kicad_care_package/SK6812MINI-E.kicad_sym")
+		)
+		(library
+			(logical "Switch")
+			(uri "${KICAD10_SYMBOL_DIR}/Switch.kicad_sym")
+		)
+		(library
+			(logical "XIAO_RP2040")
+			(uri "C:/Users/Miranda/Downloads/kicad_care_package/kicad_care_package/XIAO_RP2040.kicad_sym")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "/+3V3")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "12")
+				(pinfunction "3V3_12")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "2")
+			(name "/ENC_A")
+			(class "Default")
+			(node
+				(ref "SW6")
+				(pin "A")
+				(pinfunction "A_A")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "8")
+				(pinfunction "PB09_A7_D7_RX_8")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "3")
+			(name "/ENC_B")
+			(class "Default")
+			(node
+				(ref "SW6")
+				(pin "B")
+				(pinfunction "B_B")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "9")
+				(pinfunction "PA7_A8_D8_SCK_9")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "4")
+			(name "/ENC_SW")
+			(class "Default")
+			(node
+				(ref "SW6")
+				(pin "S1")
+				(pinfunction "S1_S1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "10")
+				(pinfunction "PA5_A9_D9_MISO_10")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "5")
+			(name "/LED_1_2")
+			(class "Default")
+			(node
+				(ref "D1")
+				(pin "2")
+				(pinfunction "DOUT_2")
+				(pintype "output")
+			)
+			(node
+				(ref "D2")
+				(pin "4")
+				(pinfunction "DIN_4")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "6")
+			(name "/LED_2_3")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "2")
+				(pinfunction "DOUT_2")
+				(pintype "output")
+			)
+			(node
+				(ref "D3")
+				(pin "4")
+				(pinfunction "DIN_4")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "7")
+			(name "/LED_3_4")
+			(class "Default")
+			(node
+				(ref "D3")
+				(pin "2")
+				(pinfunction "DOUT_2")
+				(pintype "output")
+			)
+			(node
+				(ref "D4")
+				(pin "4")
+				(pinfunction "DIN_4")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "8")
+			(name "/LED_DATA")
+			(class "Default")
+			(node
+				(ref "D1")
+				(pin "4")
+				(pinfunction "DIN_4")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "11")
+				(pinfunction "PA6_A10_D10_MOSI_11")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "9")
+			(name "/LED_PWR")
+			(class "Default")
+			(node
+				(ref "D1")
+				(pin "1")
+				(pinfunction "VDD_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D2")
+				(pin "1")
+				(pinfunction "VDD_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D3")
+				(pin "1")
+				(pinfunction "VDD_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D4")
+				(pin "1")
+				(pinfunction "VDD_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "14")
+				(pinfunction "5V_14")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "10")
+			(name "/SCL")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "6")
+				(pinfunction "PA9_A5_D5_SCL_6")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "11")
+			(name "/SDA")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "4")
+				(pinfunction "Pin_4_4")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "5")
+				(pinfunction "PA8_A4_D4_SDA_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "12")
+			(name "/SW1")
+			(class "Default")
+			(node
+				(ref "SW1")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "1")
+				(pinfunction "PA02_A0_D0_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "13")
+			(name "/SW2")
+			(class "Default")
+			(node
+				(ref "SW2")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "2")
+				(pinfunction "PA4_A1_D1_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "14")
+			(name "/SW3")
+			(class "Default")
+			(node
+				(ref "SW3")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "3")
+				(pinfunction "PA10_A2_D2_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "15")
+			(name "/SW4")
+			(class "Default")
+			(node
+				(ref "SW4")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "4")
+				(pinfunction "PA11_A3_D3_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "16")
+			(name "/SW5")
+			(class "Default")
+			(node
+				(ref "SW5")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "7")
+				(pinfunction "PB08_A6_D6_TX_7")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "17")
+			(name "GND")
+			(class "Default")
+			(node
+				(ref "D1")
+				(pin "3")
+				(pinfunction "VSS_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D2")
+				(pin "3")
+				(pinfunction "VSS_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D3")
+				(pin "3")
+				(pinfunction "VSS_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D4")
+				(pin "3")
+				(pinfunction "VSS_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "J1")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW1")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW2")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW3")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW4")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW5")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW6")
+				(pin "C")
+				(pinfunction "C_C")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW6")
+				(pin "S2")
+				(pinfunction "S2_S2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U1")
+				(pin "13")
+				(pinfunction "GND_13")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "18")
+			(name "unconnected-(D4-DOUT-Pad2)")
+			(class "Default")
+			(node
+				(ref "D4")
+				(pin "2")
+				(pinfunction "DOUT_2")
+				(pintype "output")
+			)
+		)
+	)
+)
