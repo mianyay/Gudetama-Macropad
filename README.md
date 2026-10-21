@@ -28,7 +28,7 @@ A Gudetama-themed macropad designed using the Hackpad guide. It has 5 keys with 
 
 ## Firmware
 
-Written in VS Code using CircuitPython + KMK. AI was used to help write the code.
+Written in VS Code using CircuitPython + KMK. AI was used to help write some of the code.
 - code.py - full firmware
 - test_keys.py - buttons only to test wiring
 
@@ -47,6 +47,7 @@ Written in VS Code using CircuitPython + KMK. AI was used to help write the code
 <img width="782" height="871" alt="image" src="https://github.com/user-attachments/assets/b3c10928-5cc8-4b62-bddb-6980041c1e01" />
 <img width="478" height="809" alt="image" src="https://github.com/user-attachments/assets/67c50c7c-3f29-4031-ac9e-08a621896c91" /><img width="955" height="492" alt="image" src="https://github.com/user-attachments/assets/b24d3121-2533-4112-abef-7492590c2e24" />
 <img width="946" height="446" alt="image" src="https://github.com/user-attachments/assets/cc0b419f-a245-417d-9f61-9886a00cdd5f" />
+<img width="727" height="705" alt="image" src="https://github.com/user-attachments/assets/e72621d5-e026-49b3-9d61-295d6877e8f0" />
 
 
 
