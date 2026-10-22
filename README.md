@@ -55,9 +55,7 @@ Written in VS Code using CircuitPython + KMK. AI was used to help write some of 
 - 5x DSA blank keycaps
 - 1x EC11E rotary encoder 
 - 4x SK6812 MINI-E RGB LEDs 
-- 1x 0.91" SSD1306 OLED display, 128x32, I2C
-- 1x 4-pin header, 2.54 mm pitch (for the OLED)
-- 2x 7-pin headers, 2.54 mm pitch (for the XIAO)
+- 1x 0.91" SSD1306 OLED display, 128x32
 - 6x M3x16mm SHCS bolts
 - 6x M3x5mx4mm heatset inserts
 - 1x PCB (80 x 115 mm)
