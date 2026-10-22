@@ -35,6 +35,9 @@ Written in VS Code using CircuitPython + KMK. AI was used to help write some of 
 - test_keys.py - buttons only to test wiring
 
 ## Repository Layout
+- `/pcb` - KiCad schematic, PCB layout, and gerbers
+- `/case` - STL files for the top frame, tray and knob
+- `/firmware` - CircuitPython/KMK code
 
 ## Schematic
 <img width="775" height="618" alt="image" src="https://github.com/user-attachments/assets/9bb50dca-55c4-44fc-abc8-d273bfd04af1" />
