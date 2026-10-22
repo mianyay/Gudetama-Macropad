@@ -52,6 +52,8 @@ Written in VS Code using CircuitPython + KMK. AI was used to help write some of 
 <img width="946" height="446" alt="image" src="https://github.com/user-attachments/assets/cc0b419f-a245-417d-9f61-9886a00cdd5f" />
 <img width="727" height="705" alt="image" src="https://github.com/user-attachments/assets/e72621d5-e026-49b3-9d61-295d6877e8f0" />
 
+Link: https://cad.onshape.com/documents/9705477a2f20afdacdcfdba6/w/f3cf2669e06390f3bc4361ff/e/a85cb6eed9ad57064a269f1d?renderMode=0&uiState=6ad9a16c61fea2212d106cef
+
 ## BOM
 - 1x Seeed XIAO RP2040
 - 5x Cherry MX switches 
