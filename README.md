@@ -1,6 +1,8 @@
 # Gudetama-Macropad
 A Gudetama-themed macropad designed using the Hackpad guide. It has 5 keys with a knob that adjusts the volume, an OLED Display, and 4 RGB LEDs.
 
+project: https://stardance.hackclub.com/projects/28602
+
 ## Features 
 - 5x Keys
 - 1x Rotary Encoder
